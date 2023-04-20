@@ -1,6 +1,6 @@
 # Todo App React
 
-This is a Todo App built with React and Tailwind CSS that allows you to keep track of your tasks, with the ability to add new tasks, categorize them between personal and business, mark them as complete, and edit them. The app also includes a feature to toggle between light and dark themes.
+This is a Todo App built with React, Tailwind CSS and Vite that allows you to keep track of your tasks, with the ability to add new tasks, categorize them between personal and business, mark them as complete, and edit them. The app also includes a feature to toggle between light and dark themes.
 
 ![edi_feature](https://user-images.githubusercontent.com/112787277/233505546-a8cce610-0615-4179-adff-2dd823fc32f2.png)
 
@@ -22,6 +22,7 @@ This is a Todo App built with React and Tailwind CSS that allows you to keep tra
 ## Technologies Used
 - React
 - Tailwind CSS
+- -Vite
 
 # Installation and Usage
 
