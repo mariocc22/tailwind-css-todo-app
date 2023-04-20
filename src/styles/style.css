@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styling the pseudo elements - checkboxes */
+#business:checked ~ ::after,
+#personal:checked ~ ::after {
+  width: 10px;
+  height: 10px;
+  opacity: 1;
+}
+
+input[type="checkbox"]:checked ~ ::after {
+  width: 10px;
+  height: 10px;
+  opacity: 1;
+}
